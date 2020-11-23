@@ -2,7 +2,7 @@ import React, { useState} from 'react';
 import { useHistory } from 'react-router-dom'
 import { useForm } from 'react-hook-form'
 import api from '../../api'
-import axios from 'axios'
+
 import { 
   Container, 
   MainContainer, 
